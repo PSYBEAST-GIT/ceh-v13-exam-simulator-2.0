@@ -1,23 +1,54 @@
-# CEH V13 Exam Simulator 2.0
+# 🔥 CEH v13 Exam Simulator (2026)
 
-## Legal Disclaimers
+A high-intensity **MCQ-based exam simulator** designed for CEH v13 preparation.
 
-This software is for educational purposes only. Unauthorized use of this software may be illegal and violate copyright laws.
+## ⚡ Features
 
-## Documentation
+* 🎯 386 Question Pool (from multiple sources)
+* 🔀 Randomized 120-question exams
+* ⏱ Real exam timer (3 hours)
+* 📊 Score analysis + domain breakdown
+* 🧠 Explanation for every answer
+* 🎮 Cyberpunk Blood-Neon UI
 
-### Features
-- Comprehensive questions covering all CEH domains.
-- Interactive user interface for easy navigation.
-- Performance tracking to help you identify your strengths and weaknesses.
+## 🚀 Live Demo
 
-### Installation
-1. Clone the repository using `git clone https://github.com/PSYBEAST-GIT/ceh-v13-exam-simulator-2.0.git`
-2. Navigate to the project directory.
-3. Follow the instructions in the INSTALL.md file for setup.
+👉 **[Launch Exam Here](https://psybeast-git.github.io/ceh-v13-exam-simulator-2.0/)**
 
-### Usage
-- Run the simulator by executing `python main.py` in the terminal.
+## 🧪 Usage
 
-### Support
-For support, open an issue in the repository or contact support@example.com.
+1. Open the live link
+2. Click **Launch Exam**
+3. Attempt questions
+4. Review performance
+
+## 🧠 Topics Covered
+
+* Footprinting & Recon
+* Scanning & Enumeration
+* System Hacking
+* Malware & Sniffing
+* Social Engineering
+* Web App Security
+* Cryptography
+* Cloud & AI Security
+
+## ⚠️ Disclaimer
+
+This is a **practice simulator**, not an official EC-Council exam. This project is for educational purposes only.
+
+## 📋 Important Notice
+
+- **Educational Use Only**: This simulator is designed for CEH v13 exam preparation
+- **Not Official**: Not affiliated with EC-Council or Certified Ethical Hacker program
+- **Fair Use**: Content compiled from publicly available resources for educational purposes
+- See [DISCLAIMER.md](./DISCLAIMER.md) for full legal terms
+
+## 👤 Author
+
+**PSYBEAST**
+
+---
+
+For security concerns, see [SECURITY.md](./.github/SECURITY.md)  
+Community guidelines: [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
