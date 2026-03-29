@@ -1,0 +1,9 @@
+title: CEH v13 Exam Simulator
+description: Educational exam preparation simulator for CEH v13 certification
+url: https://psybeast-git.github.io/ceh-v13-exam-simulator-2.0/
+author: PSYBEAST
+theme: jekyll-default
+plugins:
+  - jekyll-seo-tag
+markdown: kramdown
+encoding: utf-8
