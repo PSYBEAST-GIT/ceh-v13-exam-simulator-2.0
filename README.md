@@ -1,44 +1,23 @@
-# 🔥 CEH v13 Exam Simulator (2026) 
+# CEH V13 Exam Simulator 2.0
 
-A high-intensity **MCQ-based exam simulator** designed for CEH v13 preparation.
+## Legal Disclaimers
 
-## ⚡ Features
+This software is for educational purposes only. Unauthorized use of this software may be illegal and violate copyright laws.
 
-* 🎯 386 Question Pool (from multiple sources)
-* 🔀 Randomized 120-question exams
-* ⏱ Real exam timer (3 hours)
-* 📊 Score analysis + domain breakdown
-* 🧠 Explanation for every answer
-* 🎮 Cyberpunk Blood-Neon UI
+## Documentation
 
-## 🚀 Live Demo
+### Features
+- Comprehensive questions covering all CEH domains.
+- Interactive user interface for easy navigation.
+- Performance tracking to help you identify your strengths and weaknesses.
 
-👉 https://psybeast-git.github.io/ceh-v13-exam-simulator-2.0/
+### Installation
+1. Clone the repository using `git clone https://github.com/PSYBEAST-GIT/ceh-v13-exam-simulator-2.0.git`
+2. Navigate to the project directory.
+3. Follow the instructions in the INSTALL.md file for setup.
 
-## 🧪 Usage
+### Usage
+- Run the simulator by executing `python main.py` in the terminal.
 
-1. Open the live link
-2. Click **Launch Exam**
-3. Attempt questions
-4. Review performance
-
-## 🧠 Topics Covered
-
-* Footprinting & Recon
-* Scanning & Enumeration
-* System Hacking
-* Malware & Sniffing
-* Social Engineering
-* Web App Security
-* Cryptography
-* Cloud & AI Security
-
-## ⚠️ Note
-
-This is a **practice simulator**, not an official EC-Council exam.
-
-## 👤 Author
-
-**PSYBEAST**
-
----
+### Support
+For support, open an issue in the repository or contact support@example.com.
